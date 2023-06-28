@@ -1,0 +1,7 @@
+neo4j数据库和jdk匹配版本
+
+neo4j-community-3.5.5 ===>  jdk8 版本
+
+在pycharm中导入数据至neo4j时一定 记得使用管理员权限 打开连接neo4j 进行写入 所用环境一定要匹配在一起
+
+安装包联系  github 博主 WWLLB
