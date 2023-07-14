@@ -1,0 +1,2 @@
+忽视版本依赖一键导入环境
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt --no-deps
